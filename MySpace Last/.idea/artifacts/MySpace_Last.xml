@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="MySpace Last">
+    <output-path>$PROJECT_DIR$/out/artifacts/MySpace_Last</output-path>
+    <root id="root">
+      <element id="archive" name="MySpace_Last.jar">
+        <element id="module-output" name="MySpace Last" />
+      </element>
+    </root>
+  </artifact>
+</component>

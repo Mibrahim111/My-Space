@@ -1,6 +1,6 @@
 # My-Space
 
-MySpace is a social media platform that allows users to interact with each other through posts, comments, likes, and direct messages. The platform also supports group chats, communities, and user management. The project is built using Java and follows object-oriented design principles, including the use of design patterns such as Singleton, Factory, and Prototype.furtherMore , optimizing the application by using Data Structures provided by java collection like Hashmaps,Hashsets,ArrayLists,etc..and User Defined Data Strucutres like Trie.
+MySpace is a social media platform that allows users to interact with each other through posts, comments, likes, and direct messages. The platform also supports group chats, communities, and user management. The project is built using Java and follows object-oriented design principles, including the use of design patterns such as Singleton, Factory, and Prototype.furtherMore , optimizing the application by using Data Structures provided by java collection like Hashmaps,Hashsets,ArrayLists,etc..and User Defined Data Strucutres like Trie.and using javafx for GUI
 
 Project Structure
 The project is divided into several packages, each responsible for a specific functionality:
